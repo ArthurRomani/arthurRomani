@@ -4,6 +4,15 @@
   <a href="https://github.com/ArthurRomani">
     <img height=160 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ArthurRomani&layout=compact&langs_count=8&theme=dracula&card_width=320" />
   </a>
+  <a href="https://github.com/ArthurRomani">
+    <img height=160 align="center" src="https://github-readme-stats.vercel.app/api?username=ArthurRomani&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+  </a>
+</div>
+
+<br>
+
+<div>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ArthurRomani&theme=dracula&hide_border=true" />
 </div>
 
 <br>
@@ -22,12 +31,12 @@
 
 <div>
   <a href="https://www.linkedin.com/in/arthurromani/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a> 
   <a href="https://www.instagram.com/arthur_romani_?igsh=NGg4OWRyemU4dzUz&utm_source=qr" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
   <a href="mailto:romaniarthur280104@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </div>
