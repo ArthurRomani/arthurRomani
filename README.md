@@ -4,9 +4,7 @@
   <a href="https://github.com/ArthurRomani">
     <img height=160 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ArthurRomani&layout=compact&langs_count=8&theme=dracula&card_width=320" />
   </a>
-  <a href="https://github.com/ArthurRomani">
-    <img height=160 align="center" src="https://github-readme-stats.vercel.app/api?username=ArthurRomani&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-  </a>
+ 
 </div>
 
 <br>
