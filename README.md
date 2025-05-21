@@ -9,9 +9,7 @@
 
 <br>
 
-<div>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ArthurRomani&theme=dracula&hide_border=true" />
-</div>
+
 
 <br>
 
